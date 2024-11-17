@@ -1,3 +1,4 @@
+//This is one of the example for Override concept demo in java
 class A{
 	int i,j;
 	A(int a,int b)
