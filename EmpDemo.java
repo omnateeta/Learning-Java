@@ -1,6 +1,6 @@
 /*A class called Employee,which models an employee with an ID, name & Salary is designed as shown in the following
   class diagram.The Salary method raise Salary(percent) increses the salary by the given percentage Develop the 
-  Employee class & suitable main method for demonstration
+  Employee class & suitable main method for demonstration.
  */
 import java.util.Scanner;
 class Employee
