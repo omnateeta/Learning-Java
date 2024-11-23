@@ -1,5 +1,5 @@
 /*Develop a java program to create a class named shaped create three subclasses namely: Circle,triangle and square, each class has two members functions named draw() and erase()
-  Demonstrate polymorphism concepts by developing suitable methods defining members data and main program.
+  Demonstrate polymorphism concepts by developing suitable methods defining members data and main program .
  */
 
 abstract class Shape
