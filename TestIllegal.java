@@ -1,3 +1,4 @@
+//Demo for illegal Exception handling concept in java
 public class TestIllegal {
 	static void fun() throws IllegalAccessException
 	{
