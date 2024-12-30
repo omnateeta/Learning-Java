@@ -1,3 +1,4 @@
+//Example for user defined exception handling
 class MyException extends Exception
 {
 	private int details;
