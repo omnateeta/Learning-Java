@@ -1,3 +1,4 @@
+//To convert celsius degree to fahrenheit in java
 import java.util.Scanner;
 public class CelsiusToFahrenheit {
 	public static void main(String[] args)
