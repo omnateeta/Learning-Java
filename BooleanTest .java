@@ -1,4 +1,4 @@
-//Demonstrate boolean values
+//Demonstrate boolean values in java
 public class BooleanTest {
 	public static void main(String args[])
 	{
