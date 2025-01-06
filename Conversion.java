@@ -1,4 +1,4 @@
-//Demonstrate casts
+//Demonstrate casts demo
 public class Conversion {
 	public static void main(String args[])
 	{
