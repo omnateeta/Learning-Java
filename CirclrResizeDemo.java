@@ -1,5 +1,5 @@
 //Demonstate on interface concept in java
-6.interface Resizable
+interface Resizable
 {
 	void resize(int radius);
 }
