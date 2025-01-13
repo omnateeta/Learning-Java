@@ -1,3 +1,4 @@
+//This is an one of Swapping Demo whre just swapp the value one from one
 import java.util.Scanner;
 class Swapping
 {
