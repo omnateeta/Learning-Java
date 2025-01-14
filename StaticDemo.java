@@ -1,3 +1,4 @@
+//Static demo in java
 class MyClass
 {
 	int m=10;
