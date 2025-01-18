@@ -1,3 +1,4 @@
+//Demonstrate on multi treaded
 class NewThread implements Runnable 
 { 
 	String name;                      
