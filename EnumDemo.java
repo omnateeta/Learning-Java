@@ -1,4 +1,4 @@
-//The values() and valueOf() methods
+//The values() and valueOf() methods.
 enum Apple{kashmir,A1,A2,A3,A4}
 public class EnumDemo {
 	public  static void main(String[] args)
