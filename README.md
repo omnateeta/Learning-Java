@@ -1,2 +1,2 @@
 # Real Time Examples-Java
-Here I'm trying to collect Java based concepts
+Here I'm trying to collect Java based concepts in the form of short programs..
