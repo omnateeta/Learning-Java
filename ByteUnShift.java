@@ -1,4 +1,4 @@
-//Demonstrate shifting a byte value uniary >>> bite shift demo
+//Demonstrate shifting a byte value uniary >>> bite shift demo.
 public class ByteUnShift {
 	public static void main(String args[])
 	{
