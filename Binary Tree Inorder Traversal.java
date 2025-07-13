@@ -31,3 +31,8 @@ class Solution {
             return output;
     }
 }
+/* out put :Example 1:
+
+Input: root = [1,null,2,3]
+
+Output: [1,3,2] */
