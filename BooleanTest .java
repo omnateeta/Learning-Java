@@ -2,7 +2,7 @@
 public class BooleanTest {
 	public static void main(String args[])
 	{
-		boolean b; 
+		boolean b;  
 		b=false;
 		System.out.println("b is "+b);
 		b=true;
